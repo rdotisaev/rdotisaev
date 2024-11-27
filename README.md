@@ -1,3 +1,5 @@
+--- 
+
 ### Allzy aka Renat Isaev
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhhNWM3eGdjaHZ2YzhrMTB2MGhiczNtcDFkNzJmb3B0M3A1cGI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xTiTnI7Gig88ZfofxS/giphy.gif" width="250"/>
@@ -20,5 +22,3 @@
 
 --- 
 
-
-<img align="left" alt="rdotisaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rdotisaev&show_icons=true&hide_border=true&theme=dark" />
