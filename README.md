@@ -15,8 +15,6 @@
   </a>
 </div>
 
-- **RoadMap mobile app dev (ru language):** [information and progress](https://t.me/+g8mJX-6lI7pkYTM6)
-- **Linktree:** [Just all the links](https://linktr.ee/Allzy)
 
 
 
