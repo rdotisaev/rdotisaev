@@ -8,11 +8,8 @@
 
 ### LinkHub
 <div id="badges">
-  <a href="https://t.me/rdotisaev">
+  <a href="https://t.me/digitalserpent">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
-  </a>
-  <a href="https://x.com/rdotisaev">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=blue" alt="Xcom Badge"/>
   </a>
 </div>
 
